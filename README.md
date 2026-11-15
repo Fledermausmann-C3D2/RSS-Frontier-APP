@@ -17,10 +17,9 @@ RSS-Frontiers/
 ├── pyproject.toml
 ├── requirements.txt
 ├── science.ico / science.png      # Icon-Quelle
-└── src/
-    ├── assets/
-    │   └── icon.svg                # App-Icon (Vektor)
-    └── main.py                    # Flet-App
+├── assets/
+│   └── icon.svg                # App-Icon (Vektor)
+└── main.py                    # Flet-App
 ```
 
 ## Voraussetzungen
