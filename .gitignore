@@ -1,6 +1,19 @@
-venv/
+# --- Python ---
 __pycache__/
-frontiers_papers_*.md
-frontiers_papers_*.pdf
+*.py[cod]
+venv/
+.venv/
+
+# --- Flet / Flutter / Android-Build ---
 build/
 .dart_tool/
+*.apk
+*.sha1
+
+# --- Generierte Ausgaben ---
+frontiers_papers_*.md
+frontiers_papers_*.pdf
+
+# --- Sonstiges ---
+*.log
+.DS_Store
