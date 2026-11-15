@@ -54,8 +54,3 @@ Die fertige APK liegt unter `build/apk/RSS-Frontiers.apk`.
 - Das Launcher-Icon wird beim Build aus `src/assets/icon.svg` automatisch in alle Android-Größen (inkl. Adaptive Icon) generiert.
 - PDF-Erzeugung mit [fpdf2](https://github.com/py-pdf/fpdf2), Feed-Parsing mit [feedparser](https://github.com/kurtmckee/feedparser), UI mit [Flet](https://flet.dev).
 
-## Ideen / Roadmap
-
-- Filter nach Stichworten oder Autor
-- Mehrere Frontiers-Journals als Feed-Auswahl
-- Merkliste für Artikel
