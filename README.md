@@ -1,6 +1,6 @@
 # RSS-Frontiers
 
-Eine Flet-App (Android-APK + Desktop), die die 30 neuesten Forschungsartikel aus dem [Frontiers in Plant Science](https://www.frontiersin.org/journals/plant-science) RSS-Feed lädt, übersichtlich als Karten anzeigt und daraus automatisch ein Markdown-Dokument und ein PDF im handyfreundlichen Schmalformat erzeugt. Die erzeugten Dateien lassen sich direkt aus der App teilen.
+Eine Flet-App (Android-APK + Desktop), die die 10 neuesten Forschungsartikel aus dem [Frontiers in Plant Science](https://www.frontiersin.org/journals/plant-science) RSS-Feed lädt, übersichtlich als Karten anzeigt und daraus automatisch ein Markdown-Dokument und ein PDF im handyfreundlichen Schmalformat erzeugt. Die erzeugten Dateien lassen sich direkt aus der App teilen.
 
 ## Features
 
